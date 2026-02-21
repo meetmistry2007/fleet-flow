@@ -1,0 +1,24 @@
+fleetflow-management-system/
+│
+├── 📁 frontend/
+│   └── index.html (your complete code)
+│
+├── 📁 backend/
+│   ├── 📁 config/
+│   ├── 📁 controllers/
+│   ├── 📁 models/
+│   ├── 📁 routes/
+│   ├── 📁 middleware/
+│   ├── 📁 utils/
+│   ├── package.json
+│   └── server.js
+│
+├── 📁 database/
+│   └── schema.sql
+│
+├── 📁 docs/
+│   └── README.md
+│
+├── .gitignore
+├── README.md
+└── LICENSE
